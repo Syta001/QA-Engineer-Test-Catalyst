@@ -1,0 +1,11 @@
+General Question (Push your answer on Github) : 
+1.	Can you tell us about your passion? 
+Answer : I have a passion to become someone who has the best skills in the field that I am interested in. Therefore, when I decided to deepen my knowledge regarding QA, I first thought about what my passion would be after I graduated from college. Because I feel I am not skilled enough in the field of programming. And when I found a mentor who taught me about QA, I felt interested and wanted to learn more deeply to become an expert in the field. 
+2.	Why do you want to be a QA Engineer? 
+Answer : Actually, my basic skill is Manual QA, but along with technological developments I feel that QA Engineers are more in demand by large companies. But does being a QA Engineer make me an expert in the field of QA? Then I thought about this, although currently many companies are looking for a QA Engineer, Manual QA is also in great demand by several companies. After I saw this, it occurred to me to study again to become a QA Engineer because I felt that in terms of my skills to become a QA Engineer, I was still lacking, therefore I did an online course to help me deepen my knowledge of QA Engineer and also don't forget to watch YouTube videos related to QA Engineer/Automation learning. 
+3.	What is your goal as a QA Engineer ?
+Answer : I have a goal to make myself an expert in the field of QA Engineer and also to improve my career. 
+4.	How do you plan your goal as a QA Engineer ? 
+Answer : First, I will take training and certification in the field of QA, especially QA Engineer, and I will also communicate more with people who are experienced in this field. So it can make it easier for me to share knowledge in the field. 
+5.	What is your expectation, If you join with Catalyst as a QA Engineer ?
+Answer : I really hope to be part of the catalyst even though there are many shortcomings both in terms of experience and skills. So, if I get this opportunity, I will use it to help me improve the skills I have, especially after I saw that Catalyst has great people in their field, especially QA Engineers. I can use this opportunity to share knowledge with other people who like the QA field. I also hope that the skills I have can help improve the company's performance in the field of technology
